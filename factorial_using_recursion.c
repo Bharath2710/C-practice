@@ -2,7 +2,7 @@
 Example: N =5
 Factorial of 5 => 5x4x3x2x1 = 120
 
-program to find factorial of a number using user defined function.*/
+program to find factorial of a number using recursion.*/
  
 #include <stdio.h>
  

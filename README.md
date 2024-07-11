@@ -8,4 +8,5 @@
 8. Factorial using recursion
 9. Reverse of a number
 10. Palindrome or not
+11. Sum of digits in integer
 

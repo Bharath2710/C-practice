@@ -3,4 +3,6 @@
 3. Swapping of two numbers
 4. Size of the datatypes
 5. Factorial of a number
+6. Factorial using functions
+7. Factorial using recursion
 

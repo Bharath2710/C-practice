@@ -6,4 +6,6 @@
 6. Factorial of a number
 7. Factorial using functions
 8. Factorial using recursion
+9. Reverse of a number
+10. Palindrome or not
 

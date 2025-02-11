@@ -1,6 +1,7 @@
 /* C program to reverse the given number
 Example n = 345
-reverse  = 543*/
+reverse  = 543
+*/
 #include <stdio.h>
 
 int reverse(int num)

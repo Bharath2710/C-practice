@@ -1,5 +1,5 @@
 /*
-Program to print the odd series
+Program to print the odd series till 100
 */
 #include<stdio.h>
 int main()
